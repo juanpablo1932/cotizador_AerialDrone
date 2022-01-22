@@ -1,0 +1,26 @@
+{
+    "uas": [
+        
+        {
+            "uasId": 1,
+            "calidad": "12",
+            "model": "DJI Mavic Pro",
+            "apertura": "F/2.2",
+            "cmos": "1/2.3"
+        },
+        {
+            "uasId": 2,
+            "calidad": "20",
+            "model": "DJI Mavic 2 Pro",
+            "apertura": "F/2.8 a F/11",
+            "cmos": "1"
+        },
+        {
+            "uasId": 3,
+            "calidad": "48",
+            "model": "DJI Mavic Air 2",
+            "apertura": "F/2.8",
+            "cmos": "1/2"
+        }
+    ]
+}
